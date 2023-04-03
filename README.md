@@ -1,7 +1,7 @@
 # reaction_battle_pyqt5
 Desktop application for reading signal of judges voting points reading from microcontroller and sending data to web api
 
-#used libraries, need for install
+# used libraries, need for install
 - PyQt5,
 - pandas
 
